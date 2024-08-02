@@ -13,7 +13,11 @@ deberas ejecutar el comando git clone en el repositorio
 ""bash
 (repositorio)(https://github.com/lisethflorez/TRABAJO-DEL-MAPA)
 """
+## codigo de base a 
+-html
+-css
 ## creador
 - liseth florez
+  
 
 
